@@ -1,0 +1,8 @@
+======================================================
+                    Invoice                    
+======================================================
+ Name of Customer: Devbir
+ Date and time of return: 2022-08-26 14:11:04
+ Items returned are: DeadpoolCostume, RicknMortyMerch
+ Total fine: $20
+======================================================

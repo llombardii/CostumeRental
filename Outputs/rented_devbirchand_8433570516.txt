@@ -1,0 +1,8 @@
+===============================================
+                    Invoice                    
+===============================================
+ Name of Customer: devbirchand
+ Date and time of rent: 2022-08-26 12:01:39
+ Total Price: $101.25
+ Items rented are: Batman Costume
+===============================================

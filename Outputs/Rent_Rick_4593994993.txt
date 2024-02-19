@@ -1,0 +1,8 @@
+===============================================
+                    Invoice                    
+===============================================
+ Name of Customer: Rick
+ Date and time of rent: 2024-02-19 20:38:39
+ Total Price: $585.0
+ Items rented are: RicknMortyMerch, DeadpoolCostume
+===============================================

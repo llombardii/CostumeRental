@@ -1,0 +1,8 @@
+===============================================
+                    Invoice                    
+===============================================
+ Name of Customer: devbir
+ Date and time of rent: 2022-08-26 12:15:27
+ Total Price: $96.0
+ Items rented are: RicknMortyMerch, Fairy Costume
+===============================================

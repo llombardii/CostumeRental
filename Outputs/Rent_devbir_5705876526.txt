@@ -1,0 +1,8 @@
+===============================================
+                    Invoice                    
+===============================================
+ Name of Customer: devbir
+ Date and time of rent: 2022-08-26 13:58:21
+ Total Price: $810.0
+ Items rented are: DeadpoolCostume
+===============================================

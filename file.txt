@@ -1,0 +1,6 @@
+Cop Costume,Cartmax,	$16,34
+Formal Suite,Megaplex,$14.5,37
+Fairy Costume,DollarSmart,$18,37
+Batman Costume,DC,	$20.25,40
+DeadpoolCostume,MarvelINC,$45,28
+RicknMortyMerch,AdultSwim,$30,28

@@ -1,0 +1,8 @@
+===============================================
+                    Invoice                    
+===============================================
+ Name of Customer: Devbir
+ Date and time of return: 2022-08-26 14:31:26
+ Items returned are: Cop Costume
+Total fine: $50
+===============================================
